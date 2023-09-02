@@ -1443,10 +1443,10 @@ body{
                  /*******for screens smaller than 357px *******/
                  @media (max-width:357px){
                     .logo span{
-                        font-size: 15px;
+                        font-size: 18px;
                     }
                     .btn {
-                        padding:8px;
+                        padding:10px;
                       }
                     .inner-circle {
                         transform: translate(60px, -210px);
