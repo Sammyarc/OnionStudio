@@ -1446,7 +1446,7 @@ body{
                         font-size: 15px;
                     }
                     .btn{
-                        padding: 10px;
+                        padding: 10px 10px;
                       }
                     .inner-circle {
                         transform: translate(60px, -210px);
