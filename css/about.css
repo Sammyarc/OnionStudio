@@ -1453,7 +1453,7 @@ body{
 
                    /*******for screens smaller than 335px *******/
                    @media (max-width:335px){
-                         .btn{
+                    .btn {
                         padding: 10px;
                       }
                     .content2 {
