@@ -1836,7 +1836,7 @@ body{
 
           @media (max-width:400px){
             .logo span{
-              font-size: 15px;
+              font-size: 18px;
           }
           .detail2 img{
             transform: translate(20px, -400px);
@@ -1975,7 +1975,7 @@ body{
 
      @media (max-width:360px){
       .btn{
-        padding: 8px;
+        padding: 10px;
       }
       .circle2 {
         transform: translate(65px, -250px);
