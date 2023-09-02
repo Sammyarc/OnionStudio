@@ -1445,7 +1445,9 @@ body{
                     .logo span{
                         font-size: 15px;
                     }
-                  
+                    .btn {
+                        padding: 10px;
+                      }
                     .inner-circle {
                         transform: translate(60px, -210px);
                     }
@@ -1453,9 +1455,6 @@ body{
 
                    /*******for screens smaller than 335px *******/
                    @media (max-width:335px){
-                    .btn {
-                        padding: 10px;
-                      }
                     .content2 {
                         width: 280px;
                     }
