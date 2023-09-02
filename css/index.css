@@ -1975,7 +1975,7 @@ body{
 
      @media (max-width:360px){
       .btn{
-        padding: 10px;
+        padding: 10px 20px;
       }
       .circle2 {
         transform: translate(65px, -250px);
